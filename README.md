@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Lukas and I'm passionate about (bio)medical imaging and computer vision. Currently employed as a research associate at the University of Applied Sciences Upper Austrian Campus Wels. Researching and developing image enhancement methods to improve the resolution of micro-CT scans.
+My name is Lukas and I'm passionate about (bio)medical imaging and computer vision. Currently, I'm researching and developing image enhancement methods to improve the resolution of micro-CT scans.
 
 🔭 Currently working on [vIQA](https://github.com/3dct/vIQA), a python package for volumetric image quality assessment.
 
